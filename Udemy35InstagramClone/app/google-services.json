@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "416167416594",
+    "project_id": "udemy-35-instagram-clone",
+    "storage_bucket": "udemy-35-instagram-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416167416594:android:b56f60e0a2a041571859cb",
+        "android_client_info": {
+          "package_name": "com.rakibofc.udemy35instagramclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416167416594-6praosiidmieocckpikfabv6vo5jrdf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACymmVhFdp608X9u-Iz-mZfd6IMaXhJAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416167416594-6praosiidmieocckpikfabv6vo5jrdf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

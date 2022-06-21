@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "135984864972",
+    "project_id": "udemy-46-snapchat-clone",
+    "storage_bucket": "udemy-46-snapchat-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135984864972:android:7705c3376e6c48d9b06c69",
+        "android_client_info": {
+          "package_name": "com.rakibofc.udemy46snapchatclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135984864972-u99gdqsoq5ctde44v4t0a3jb682804if.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqlF_Nuao-GEJkz27hWoEqkFk8M6Q3kf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135984864972-u99gdqsoq5ctde44v4t0a3jb682804if.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

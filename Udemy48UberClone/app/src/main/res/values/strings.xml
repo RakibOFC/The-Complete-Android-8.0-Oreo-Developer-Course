@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Udemy 48 Uber Clone</string>
+    <string name="title_activity_rider">RiderActivity</string>
+    <string name="title_activity_driver_location">DriverLocationActivity</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Udemy 35 Instagram Clone</string>
+    <string name="msg_sign_up">Don\'t have an account? <b>Sign up</b></string>
+    <string name="msg_sign_in">Have an account? <b>Log in</b></string>
+    <string name="msg_reset_password"><b>Forgot password?</b></string>
+    <string name="pick_photo">Import Photo</string>
+</resources>
